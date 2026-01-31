@@ -1,1 +1,2 @@
-# repo-called-hw2-w26
+# hw2_simple_css
+Starter code for simple css assignment
